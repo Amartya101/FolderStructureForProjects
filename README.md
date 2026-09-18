@@ -21,6 +21,7 @@ This folder structure helps to stay organized during thesis and research. It con
 * **Review the guidance** (G\_\*\_READMEs) to understand the purpose and best practices for each folder. (For quick access, find the [collection of Guidance_READMEs](https://github.com/RDMJeanne/FolderStructure/tree/main/Guidance_READMEs))
 * **Add your files** to the structure (adjust to your needs if necessary) 
 * **Edit the metadata templates** (M\_\*\_READMEs) to document your metadata as you progress.
+* **Utilize a data management plan tool** to document and generate a data management plan for every project. Treat your data management plan as a living document that you would need to periodically update. We recommend [DMPTool] (https://dmptool.org), a free online tool, which provides a comprehensive set of templates to guide the preparation of clear and thorough data management plans.
 
 
 ## Aim
