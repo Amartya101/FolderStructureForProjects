@@ -17,7 +17,7 @@ This repository contains
 
 This folder structure helps to stay organized during thesis and research. It contains many tips and recommendations.
 
-* **Download the "PhD.zip"** file and unzip it to your desired location. 
+* **Download the "PhD.zip"** file and unzip it to your desired location. We recommend renaming this folder from PhD to a name that confirms to the format YYYY-MM-DD_Project-Student-Name_Project-ID_Lab-Name. Please note that spaces should not be used in naming the directory, instead use - and _ as separators between words. 
 * **Review the guidance** (G\_\*\_READMEs) to understand the purpose and best practices for each folder. (For quick access, find the [collection of Guidance_READMEs](https://github.com/RDMJeanne/FolderStructure/tree/main/Guidance_READMEs))
 * **Add your files** to the structure (adjust to your needs if necessary) 
 * **Edit the metadata templates** (M\_\*\_READMEs) to document your metadata as you progress.
